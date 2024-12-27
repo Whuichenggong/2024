@@ -38,7 +38,7 @@ emm发现创建的仓库都是在近期创建的，感觉是2024年末端感觉�
 
 ## 2023. 9~12月
 
-![便签](https://github.com/Whuichenggong/2024/blob/main/2024_pictures/便签.jpg)
+![便签](https://github.com/Whuichenggong/2024/blob/main/2024_pictures/便签.png)
 
 
 看了看 git  c++ 等
