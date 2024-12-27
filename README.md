@@ -38,7 +38,8 @@ emm发现创建的仓库都是在近期创建的，感觉是2024年末端感觉�
 
 ## 2023. 9~12月
 
-![便签](E:\github.com\Whuichenggong_year\2024_pictures\便签.png)
+![便签](2024——pictures/便签.png)
+
 
 看了看 git  c++ 等
 
@@ -58,7 +59,7 @@ emm发现创建的仓库都是在近期创建的，感觉是2024年末端感觉�
 
 
 
-![教员](E:\github.com\Whuichenggong_year\2024_pictures\教员.jpg)
+![教员](2024——pictures/教员.png)
 
 
 
@@ -70,7 +71,7 @@ emm发现创建的仓库都是在近期创建的，感觉是2024年末端感觉�
 
 也度过了大学的第一个生日与室友们非常开心!
 
-![生日](E:\github.com\Whuichenggong_year\2024_pictures\birsday.jpg)
+![生日](2024——pictures/birsday.png)
 
 大一上可能就这么过去了吧！
 
@@ -87,7 +88,7 @@ emm发现创建的仓库都是在近期创建的，感觉是2024年末端感觉�
 
 
 <video width="320" height="240" controls>
-  <source src="E:\github.com\Whuichenggong_year\2024_pictures\video.mp4" type="video/mp4">
+  <source src="2024_pictures\陪伴.mp4" type="video/mp4">
   你的浏览器不支持 HTML5 video 标签。
 </video>
 
@@ -97,7 +98,7 @@ emm发现创建的仓库都是在近期创建的，感觉是2024年末端感觉�
 
 
 
-![家庭](E:\github.com\Whuichenggong_year\2024_pictures\家庭.jpg)
+![家庭](2024_pictures\家庭.jpg)
 
 
 
@@ -115,7 +116,7 @@ emm发现创建的仓库都是在近期创建的，感觉是2024年末端感觉�
 
 
 
-![实验室](E:\github.com\Whuichenggong_year\2024_pictures\实验室.jpg)
+![实验室](2024_pictures\实验室.jpg)
 
 
 
@@ -127,7 +128,7 @@ emm发现创建的仓库都是在近期创建的，感觉是2024年末端感觉�
 
 
 
-![老哥](E:\github.com\Whuichenggong_year\2024_pictures\老哥.jpg)
+![老哥](2024_pictures\老哥.jpg)
 
 这个头像的老哥给了我一些我踏入计算机真正的一些建议！
 
